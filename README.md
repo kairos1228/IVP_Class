@@ -8,7 +8,4 @@
 <교과목 목표>
 디지털영상신호처리의 특성을 이해고 실제 인공지능 응용분야의 다양한 기술에 적용하기 위한 기초 기술들을 습득한다. 이를 바탕으로 개별적인 실습/토론/과제를 통해 영상 데이터 분석 기술에 대한이해를 높이고 실무 프로젝트를 통해서 실무 현장에서 수행되는 과업들을 간접경험해본다.
 
-from PIL import Image, ImageDraw, ImageFont
-
-```bash
-python generate_image.py
+![Lecture Overview](lecture_overview.png)
